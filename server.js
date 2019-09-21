@@ -9,5 +9,6 @@ var port = 3000;
 var host = "0.0.0.0";
 
 app.listen(port, function () {
-  console.log('Example app listening on port ' + port)
+  console.log('Listening on port ' + port)
+  console.log('App running at http://localhost:${port}/')
 })
