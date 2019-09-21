@@ -28,7 +28,7 @@ Follow the link provided by heroku to your deployed app
 
 ## Author
 
-* **Benjamin Kleeman** - [bkleeman](https://github.com/bkleeman)
+* **Rija Aamir** - [raamir](https://github.com/raamir)
 
 ## License
 
